@@ -1,0 +1,25 @@
+/*
+* This is a manifest file that'll be compiled into application.css, which will include all the files
+* listed below.
+*
+* Any CSS file within this directory can be referenced here using a relative path.
+*
+* You're free to add application-wide styles to this file and they'll appear at the top of the
+* compiled file, but it's generally better to create a new file per style scope.
+*
+*= require g2_bootstrap_fonts
+*= require bootstrap
+*= require grails
+*= require main
+*= require mobile
+*= require_self
+*= require g2_bootstrap_astp
+*= require g2_form
+*= require g2_main
+*= require carousel
+*= require auth
+*= require fontawesome
+*= require all
+*= require bootstrap-datepicker.css
+*= require ui/1.12.1/themes/base/jquery-ui.css
+*/
